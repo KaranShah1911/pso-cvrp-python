@@ -1,138 +1,150 @@
 -------------------------P-n16-k8------------------------
-Best Value: 458.1749444745369
-Worst Value: 475.0131254193292
-Average Value: 465.7609348818602
-Standard deviation: 5.740790435707138
+Best Value: 469.24566167448256
+Worst Value: 507.5584228595223
+Average Value: 485.4421409914602
+Standard deviation: 14.34497265642251
 
 -------------------------P-n19-k2------------------------
-Best Value: 299.67571967534457
-Worst Value: 336.1009745131706
-Average Value: 317.13047606171347
-Standard deviation: 13.938706579506794
+Best Value: 248.62989429418963
+Worst Value: 362.0096747555673
+Average Value: 317.9580869107464
+Standard deviation: 48.55276876694683
+
+-------------------------P-n16-k8------------------------
+Best Value: 498.5110532727258
+Worst Value: 512.7443903629962
+Average Value: 506.202861108238
+Standard deviation: 6.086469709526498
+
+-------------------------P-n19-k2------------------------
+Best Value: 289.66417867524103
+Worst Value: 392.9876536688879
+Average Value: 357.16466904803656
+Standard deviation: 37.10034423138267
 
 -------------------------P-n20-k2------------------------
-Best Value: 299.64968686269697
-Worst Value: 365.3211829691227
-Average Value: 336.26732985834735
-Standard deviation: 22.2690340028388
+Best Value: 362.58647951582225
+Worst Value: 414.7486909836309
+Average Value: 389.4248911813852
+Standard deviation: 19.82623279582954
 
 -------------------------P-n21-k2------------------------
-Best Value: 350.9609892761942
-Worst Value: 378.57295235011895
-Average Value: 361.5384517979793
-Standard deviation: 9.990845651246287
+Best Value: 321.38583217792734
+Worst Value: 398.77499204446406
+Average Value: 373.0592577524526
+Standard deviation: 32.03217988120608
 
 -------------------------P-n22-k2------------------------
-Best Value: 333.1812317235016
-Worst Value: 396.8009565961021
-Average Value: 375.5844391055037
-Standard deviation: 22.576350705912617
+Best Value: 404.4007662879411
+Worst Value: 449.3306211196553
+Average Value: 422.83246913772854
+Standard deviation: 16.257050694181412
 
 -------------------------P-n22-k8------------------------
-Best Value: 730.5399697135119
-Worst Value: 748.9549550144264
-Average Value: 736.3235925394679
-Standard deviation: 6.559994463676567
+Best Value: 767.1405409463181
+Worst Value: 835.7360591808426
+Average Value: 798.9597761988258
+Standard deviation: 30.419707968462227
 
 -------------------------P-n23-k8------------------------
-Best Value: 621.0555085623821
-Worst Value: 653.5676142136584
-Average Value: 639.4431215965751
-Standard deviation: 11.672072995657189
+Best Value: 659.2485019530939
+Worst Value: 686.5437908499377
+Average Value: 672.8399988702956
+Standard deviation: 8.67289511057067
 
 -------------------------P-n40-k5------------------------
-Best Value: 991.8564617377251
-Worst Value: 1029.7991539345649
-Average Value: 1004.1948203679442
-Standard deviation: 13.836488322148902
+Best Value: 1051.193291320424
+Worst Value: 1104.223346627257
+Average Value: 1089.11507716201
+Standard deviation: 19.586771024242903
 
 -------------------------P-n45-k5------------------------
-Best Value: 1205.0011913363892
-Worst Value: 1285.5241851418493
-Average Value: 1245.1703458795841
-Standard deviation: 27.104632034389528
+Best Value: 1312.8350306823097
+Worst Value: 1411.2208036640188
+Average Value: 1365.6652265257537
+Standard deviation: 36.5030988261172
 
 -------------------------P-n50-k7------------------------
-Best Value: 1257.6940276653027
-Worst Value: 1339.4587275844647
-Average Value: 1312.0477246384676
-Standard deviation: 30.39570684569386
+Best Value: 1372.9861526292323
+Worst Value: 1470.7877721044092
+Average Value: 1435.1827982055852
+Standard deviation: 35.00793870668974
 
 -------------------------P-n50-k8------------------------
-Best Value: 1322.6641300701351
-Worst Value: 1432.7892821452358
-Average Value: 1369.960752293971
-Standard deviation: 36.16509428058927
+Best Value: 1351.9180440874484
+Worst Value: 1497.6422133128576
+Average Value: 1447.6323581816428
+Standard deviation: 49.87597273788461
 
 -------------------------P-n50-k10------------------------
-Best Value: 1331.782348460743
-Worst Value: 1410.6894588730772
-Average Value: 1364.8505873539298
-Standard deviation: 27.327023021396762
+Best Value: 1381.3877360726021
+Worst Value: 1510.5304966097672
+Average Value: 1434.7801394795658
+Standard deviation: 46.5446071948567
 
 -------------------------P-n51-k10------------------------
-Best Value: 1422.5306116132024
-Worst Value: 1495.6177122336753
-Average Value: 1455.2205039806456
-Standard deviation: 24.711989369291874
+Best Value: 1498.7249566900734
+Worst Value: 1619.346399588964
+Average Value: 1573.2794136702998
+Standard deviation: 44.66022249162038
 
 -------------------------P-n55-k7------------------------
-Best Value: 1402.0912852799283
-Worst Value: 1488.0338062238031
-Average Value: 1452.9272957577616
-Standard deviation: 31.08775646357765
+Best Value: 1475.935340535533
+Worst Value: 1591.439062443029
+Average Value: 1527.460275872152
+Standard deviation: 41.77438994138102
 
 -------------------------P-n55-k10------------------------
-Best Value: 1468.9504719156462
-Worst Value: 1569.7699785558373
-Average Value: 1523.1116315787297
-Standard deviation: 35.74199847623132
+Best Value: 1555.6597013066096
+Worst Value: 1648.7024387079234
+Average Value: 1604.4683755844612
+Standard deviation: 32.51021343311103
 
 -------------------------P-n55-k15------------------------
-Best Value: 1602.8406506791835
-Worst Value: 1660.9713859023589
-Average Value: 1633.3078506061074
-Standard deviation: 21.524640677324488
+Best Value: 1659.7412226191339
+Worst Value: 1783.4895962279477
+Average Value: 1728.6244212750983
+Standard deviation: 43.287450517018506
 
 -------------------------P-n60-k10------------------------
-Best Value: 1675.8317916883345
-Worst Value: 1739.8942197754639
-Average Value: 1716.700971136543
-Standard deviation: 21.802264068330256
+Best Value: 1760.6911018559401
+Worst Value: 1860.6731435383797
+Average Value: 1804.5454218266466
+Standard deviation: 34.88471772423307
 
 -------------------------P-n60-k15------------------------
-Best Value: 1778.6756497298807
-Worst Value: 1863.2381178768353
-Average Value: 1825.3653804842681
-Standard deviation: 32.82136194309257
+Best Value: 1871.006334994981
+Worst Value: 2009.1305897005684
+Average Value: 1939.1064125488222
+Standard deviation: 46.24136138370079
 
 -------------------------P-n65-k10------------------------
-Best Value: 1927.2329438210782
-Worst Value: 1980.320671342871
-Average Value: 1944.5367095620677
-Standard deviation: 18.864680172499718
+Best Value: 1938.4360899122037
+Worst Value: 2119.9444540805703
+Average Value: 2039.8275017184321
+Standard deviation: 66.84710918349117
 
 -------------------------P-n70-k10------------------------
-Best Value: 1995.7695635635964
-Worst Value: 2111.6765297458055
-Average Value: 2070.4486663738235
-Standard deviation: 42.551815607525675
+Best Value: 2170.308066099582
+Worst Value: 2220.392691257552
+Average Value: 2193.4999511516835
+Standard deviation: 20.66752435239127
 
 -------------------------P-n76-k4------------------------
-Best Value: 2062.826783344041
-Worst Value: 2189.154703408716
-Average Value: 2151.7874948954573
-Standard deviation: 46.86094194048137
+Best Value: 2197.7223061722825
+Worst Value: 2318.802960628116
+Average Value: 2266.9368908272054
+Standard deviation: 41.96261783580422
 
 -------------------------P-n76-k5------------------------
-Best Value: 2074.556718109464
-Worst Value: 2196.06008823383
-Average Value: 2156.5174956130227
-Standard deviation: 42.91110481707806
+Best Value: 2251.563136373487
+Worst Value: 2384.8269732881827
+Average Value: 2310.866445874845
+Standard deviation: 45.82128341577652
 
 -------------------------P-n101-k4------------------------
-Best Value: 2968.9313915344765
-Worst Value: 3012.2060004359387
-Average Value: 2982.424071750979
-Standard deviation: 15.819067734720626
+Best Value: 2952.623049648752
+Worst Value: 3140.1770209706433
+Average Value: 3081.820314468262
+Standard deviation: 68.66038540762165
 

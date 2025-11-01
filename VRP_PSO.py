@@ -93,7 +93,7 @@ for i in list_file_data:
     list_fitness = [[] for i in range(0, 5)]
     for j in range(0, 5):
         list_fitness[j] = PSO.particle_swarm_optimization(total_customers, demand_matrix, distance_matrix,
-                                                          capacity_of_vehicle, 100, 1000)
+                                                          capacity_of_vehicle, 10, 50)
     list_fitness.sort()
     f.write('-------------------------' + i + '------------------------\n')
     f.write('Best Value: ' + str(list_fitness[0]) + '\n')
